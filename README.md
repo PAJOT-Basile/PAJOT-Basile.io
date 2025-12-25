@@ -18,8 +18,8 @@ From January to July 2024, I did a comparative genomic study of Littorina fabali
 
 ## Related publications:
 
- -  Pajot B., Broquet T., Choo L. Q., Barry P., Faria R., Butlin R. K., Johannesson K., Le Moan A. (preprint). Inversions support both parallel and location-specific adaptations in snail ecotypes.
- -  Reeve J., Ghane A., Barry P., Balmori de la Puente A., Butlin R. K., Choo L. Q., Le Moan A., Garcia Castillo D., Peris Tamayo A. M., Kingston S., Leder E. H., Stankowski S., Pajot B (2024). A sequencing pipeline for processing short-read sequencing data from Littorina snails V.3. [Protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gp3m21vzp/v3)
+ -  **Pajot B.**, Broquet T., Choo L. Q., Barry P., Faria R., Butlin R. K., Johannesson K., Le Moan A. (preprint). Inversions support both parallel and location-specific adaptations in snail ecotypes.
+ -  Reeve J., Ghane A., Barry P., Balmori de la Puente A., Butlin R. K., Choo L. Q., Le Moan A., Garcia Castillo D., Peris Tamayo A. M., Kingston S., Leder E. H., Stankowski S., **Pajot B.** (2024). A sequencing pipeline for processing short-read sequencing data from Littorina snails V.3. [Protocols.io](https://dx.doi.org/10.17504/protocols.io.dm6gp3m21vzp/v3)
 
 ## Supervision
 
