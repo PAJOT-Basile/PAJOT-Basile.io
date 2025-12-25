@@ -1,18 +1,12 @@
 # About me
 Having done a double diploma in an agronomy engineering school (L'institut Agro Montpellier) and a master orinted towards Biodiversity, Ecology and Evolution (at the University of Montpellier), I am currently a second year PhD student at the Statin Biologique de Roscoff, where I did my master's thesis.
 
-I am interested by speciation questions and more particularly the following questions:
-
-How do barriers to reproduction appear and become associated to form different species?
-
-How do isolation between closely-related species evolve?
-
-How do phenotypic traits involved in barriers to reproduction evolve?
-
-What is the role played by chromosomal rearrangements in the speciation process?
-
-How is the speciation process translated at the genome scale?
-
+ I am interested by speciation questions and more particularly the following questions:
+  -  How do barriers to reproduction appear and become associated to form different species?
+  -  How do isolation between closely-related species evolve?
+  -  How do phenotypic traits involved in barriers to reproduction evolve?
+  -  What is the role played by chromosomal rearrangements in the speciation process?
+  -  How is the speciation process translated at the genome scale?
 
 
 # 1. Master's Thesis
@@ -39,7 +33,10 @@ From January to July 2024, I did a comparative genomic study of Littorina fabali
 
 Since October 2024, I am working on the evolution of sexual isolation between species of the complex of marine isopods Jaera albifrons. This marine isopod complex that can be found on the shore is composed of five closely related species, four of which are found on European coasts. Each of these species has a specific mating courtship (see work of Solignac). These courtship establishes a barrier to reproduction between species of the complexe. However, it is not clear how this sexual behavioural barrier appeared and evolved in the different species. This is the central question of my PhD. To answer this question, we use experimental approaches to study mate choice and interspecfic crosses.
 
-![Linkage_map](./images/Carte_liaison_jaera_femelles.png)
+<p align="center" width="100%">
+    <img width="33%" src="./images/Carte_liaison_jaera_femelles.png"> 
+</p>
+
 *Figure credits: Ribardière et al., 2025*
 
 In addition, species from the complex present a strong chromosomal polymorphism with fusions and fissions of chromosomes, Robertsonnian translocations and chromosomal inversions (see Ribardière et al., 2025). However, there also is a strong chromosomal polymorphism between species of the complex. The second part of my PhD thus consists in identifying chromosomal polymorphis associated with the speciation process and understand how these chromosomal rearrangements contribute to the speciation process. To answer these questions, we use genomic data from individuals sampled in natural populations.
