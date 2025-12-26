@@ -11,7 +11,7 @@ $accent: #ee7600; /* orange/gold (approx. R's orange2) */
 /* Layout variables */
 $sidebar-width: 260px;
 
-@import "./assets/css/variables.scss";
+@import "./variables";
 
 * { box-sizing: border-box; }
 html,body { height:100%; }
