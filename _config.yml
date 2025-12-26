@@ -15,4 +15,3 @@ exclude:
 
 # Use local layouts/includes from this repository (custom theme in `_theme`)
 # We removed the external `theme:` gem to use local `_layouts` and `_includes`.
->>>>>>> 277a3261599fe0ca7e6cbfd8e2ba270d49ee3382
