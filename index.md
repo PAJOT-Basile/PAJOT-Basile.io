@@ -2,14 +2,14 @@
 layout: default
 title: "About — Basile Pajot"
 ---
-# Hero
+# About me
 <div class="hero">
   <!-- Add your hero image here by replacing the background or placing an <img> -->
   <strong>Welcome — I'm Basile Pajot</strong>
   <p class="muted">PhD student focusing on speciation and chromosomal evolution. (Hero image placeholder)</p>
 </div>
 
-# About me
+# Education
 Having done a double diploma in an agronomy engineering school (L'institut Agro Montpellier) and a master orinted towards Biodiversity, Ecology and Evolution (at the University of Montpellier), I am currently a second year PhD student at the Statin Biologique de Roscoff, where I did my master's thesis.
 
 I am interested by speciation questions and more particularly the following questions:
